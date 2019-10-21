@@ -1,0 +1,44 @@
+
+c(
+  bibentry(
+    bibtype = "Article",
+    title = "The eICU Collaborative Research Database, a freely available multi-center database for critical care research",
+    author = c(
+      person(c("Tom", "J"), "Pollard"),
+      person(c("Alistair", "EW"), "Johnson"),
+      person(c("Jesse", "D"), "Raffa"),
+      person(c("Leo", "Anthony"), "Celi"),
+      person(c("Roger", "G"), "Mark"),
+      person("Omar", "Badawi")
+    ),
+    journal = "Scientific data",
+    volume = "3",
+    pages = "180178",
+    year = "2018",
+    publisher = "Nature Publishing Group",
+    url = "https://www.nature.com/articles/sdata2018178",
+    doi = "10.1038/sdata.2018.178"
+  ),
+  bibentry(
+    bibtype = "Article",
+    title = "PhysioBank, PhysioToolkit, and PhysioNet: components of a new research resource for complex physiologic signals",
+    author = c(
+      person(c("Ary", "L"), "Goldberger"),
+      person(c("Luis", "AN"), "Amaral"),
+      person("Leon", "Glass"),
+      person(c("Jeffrey", "M"), "Hausdorff"),
+      person(c("Plamen", "Ch"), "Ivanov"),
+      person(c("Roger", "G"), "Mark"),
+      person(c("Joseph", "E"), "Mietus"),
+      person(c("George", "B"), "Moody"),
+      person("Chung-Kang", "Peng"),
+      person(c("Stanley", "H"), "Eugene")
+    ),
+    journal = "Circulation",
+    volume = "101",
+    number = "23",
+    pages = "e215-e220",
+    year = "2000",
+    publisher = "Am Heart Assoc"
+  )
+)
