@@ -1,12 +1,22 @@
 Package: eicu.demo
-Title: What the Package Does (One Line, Title Case)
+Title: eICU Collaborative Research Database Demo
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "First",
-           family = "Last",
+Authors@R:
+    person(given = "Drago",
+           family = "Plecko",
            role = c("aut", "cre"),
-           email = "first.last@example.com")
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "drago.plecko@stat.math.ethz.ch")
+    person(given = "Nicolas",
+           family = "Bennett",
+           role = c("aut", "cre"),
+           email = "nicolas.bennett@stat.math.ethz.ch")
+Description: The eICU Collaborative Research Database is a multi-center database comprised of deidentified health data for over 200,000 admissions to ICUs across the United States between 2014-2015. The database includes vital sign measurements, care plan documentation, severity of illness measures, diagnosis information, and treatment information. An open-access subset of eICU, comprising 2,500 unit stays selected from 20 of the larger hospitals in the eICU Collaborative Research Database is distributed under the Open Database License (ODbL) v1.0 and is provided as R package for convenience.
+URL: https://physionet.org/content/eicu-crd-demo/2.0
+BugReports: https://github.com/septic-tank/eicu-demo/issues
+License: ODbL v1.0
 Encoding: UTF-8
 LazyData: true
+Enhances:
+    sepsr
+Remotes:
+    septic-tank/sepsr
