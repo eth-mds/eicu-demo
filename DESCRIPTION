@@ -22,8 +22,8 @@ Authors@R: c(
     )
 URL: https://physionet.org/content/eicu-crd-demo/2.0
 BugReports: https://github.com/eth-mds/eicu-demo/issues
-License: ODbL v1.0
+License: ODbL v1.0 + file LICENSE.md
 Encoding: UTF-8
 Enhances: ricu
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1

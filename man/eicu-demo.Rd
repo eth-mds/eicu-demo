@@ -3,7 +3,6 @@
 \docType{package}
 \name{eicu-demo}
 \alias{eicu-demo}
-\alias{eicu-demo-package}
 \title{eICU Collaborative Research Database}
 \description{
 The \link{Philips eICU program}(
