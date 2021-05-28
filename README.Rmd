@@ -9,7 +9,7 @@ output:
 ```{r, include = FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE,
-  comment = "#>",
+  comment = "#>"
 )
 ```
 
@@ -24,7 +24,7 @@ As an *Enhances* dependency to the CRAN R package [ricu](https://cran.r-project.
 
 ## Installation
 
-The released version of eicu.demo can be installed as:
+The released version of [eicu.demo](https://github.com/eth-mds/eicu-demo) can be installed as:
 
 ``` r
 install.packages(
