@@ -9,7 +9,7 @@ Description: The eICU Collaborative Research Database is a multi-center
     hospitals in the eICU Collaborative Research Database is distributed under
     the Open Database License (ODbL) v1.0 and is provided as R package for
     convenience.
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person(given = "Nicolas",
            family = "Bennett",
@@ -22,7 +22,7 @@ Authors@R: c(
     )
 URL: https://physionet.org/content/eicu-crd-demo/2.0
 BugReports: https://github.com/eth-mds/eicu-demo/issues
-License: ODbL v1.0 + file LICENSE.md
+License: ODbL v1.0 + file LICENSE
 Encoding: UTF-8
 Enhances: ricu
 Roxygen: list(markdown = TRUE)
