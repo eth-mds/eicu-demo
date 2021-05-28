@@ -5,9 +5,7 @@
 \alias{eicu-demo}
 \title{eICU Collaborative Research Database}
 \description{
-The \link{Philips eICU program}(
-http://www.usa.philips.com/healthcare/product/
-HCNOCTN503/eicu-program-telehealth-for-the-intensive-care-unit) is a
+The \href{http://www.usa.philips.com/healthcare/product/HCNOCTN503/eicu-program-telehealth-for-the-intensive-care-unit}{Philips eICU program} is a
 transformational critical care telehealth program that delivers
 need-to-know information to caregivers, empowering them to care for the
 patients. It is a supplement — not a replacement — to the bedside team, and

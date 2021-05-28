@@ -1,9 +1,7 @@
 
 #' eICU Collaborative Research Database
 #'
-#' The [Philips eICU program](
-#' http://www.usa.philips.com/healthcare/product/
-#' HCNOCTN503/eicu-program-telehealth-for-the-intensive-care-unit) is a
+#' The [Philips eICU program](http://www.usa.philips.com/healthcare/product/HCNOCTN503/eicu-program-telehealth-for-the-intensive-care-unit) is a
 #' transformational critical care telehealth program that delivers
 #' need-to-know information to caregivers, empowering them to care for the
 #' patients. It is a supplement — not a replacement — to the bedside team, and
